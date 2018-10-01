@@ -1,0 +1,15 @@
+{
+  "name": "UsedIteratorsGenerators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhin V.A.",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0"
+  }
+}
